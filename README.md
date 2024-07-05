@@ -8,7 +8,7 @@ Este proyecto es un conversor de monedas que utiliza la API de Maven Central Rep
 - Conversión de monedas en tiempo real utilizando una API de tasas de cambio.
 - Soporte para múltiples monedas.
 
-## Descripcio
+## Descripcion del proyecto
 
 El proyecto es un conversor de monedas desarrollado en Java, que permite a los usuarios convertir entre diferentes tipos de monedas de forma rápida y sencilla. El conversor es capaz de convertir varias monedas populares:
 
